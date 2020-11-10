@@ -21,3 +21,6 @@ being called must be linux compatiple.
 
 ## To stop (optional)
 ```sudo ./install.sh -d```
+
+## To see help
+`sudo ./install.sh -h`
