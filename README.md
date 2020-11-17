@@ -2,7 +2,8 @@
 
 ## Description
 This is a POC project to demonstrate
-a install of ruby with ansible. Then running the classic ruby console app hello world.
+a install of ruby with saltstack. 
+Then running the classic ruby console app hello world.
 
 ## Tech stack
 - salt
